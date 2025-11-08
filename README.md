@@ -9,8 +9,8 @@ draft personalized outreach emails, and track campaign performance automatically
 --------------------------------
 
 ✅ Ready to launch your own AI-powered sales workflow?
-cd ai-sales-crm
-docker compose up --build
+* cd ai-sales-crm
+* docker compose up --build
 
 
 Here’s what happens:
