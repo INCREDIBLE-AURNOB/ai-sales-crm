@@ -7,7 +7,11 @@ draft personalized outreach emails, and track campaign performance automatically
 
 ⚡ Quick Start (Demo)
 --------------------------------
+
+✅ Ready to launch your own AI-powered sales workflow?
+cd ai-sales-crm
 docker compose up --build
+
 
 Here’s what happens:
 1. Loads 25+ sample leads from data/leads.csv
@@ -54,8 +58,5 @@ Once processed, you’ll get data/leads_out.csv with:
 | Out of memory | Use lighter model or increase Docker memory |
 
 
-✅ Ready to launch your own AI-powered sales workflow?
-cd ai-sales-crm
-docker compose up --build
 
 
